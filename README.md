@@ -2,6 +2,14 @@
 
 A working investment-research prototype connecting source evidence, research answers, and human-reviewed thesis updates. Built for Swaroop's portfolio with AI assistance on the Sites/Vinext starter. Independently branded and implemented; not affiliated with Multiplier.
 
+## Documentation
+
+[Complete project guide](docs/PROJECT_GUIDE.md) · [Download the printable PDF](docs/ThesisRoom-Project-Guide.pdf) · [Demo walkthrough](DEMO_WALKTHROUGH.md)
+
+The guide covers the product workflow, architecture, retrieval algorithm, source-version dependencies, Groq integration, persistence, APIs, local setup, tests, limitations, and interview questions.
+
+To rebuild the PDF, install the optional Python dependency with `python -m pip install reportlab`, then run `python scripts/build-project-guide.py` from the repository root. Python is not required to run the app.
+
 [![Watch the 59-second demo](docs/demo-poster.jpg)](docs/thesisroom-demo.mp4)
 
 [Watch / download the demo](docs/thesisroom-demo.mp4) · [Portable interactive version](docs/interactive-demo.html)
