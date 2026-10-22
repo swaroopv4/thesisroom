@@ -519,4 +519,3 @@ The following files are the primary implementation references for this guide:
 | GAAP / non-GAAP | Distinct accounting bases that must not be silently mixed. |
 | Percentage points | The arithmetic difference between percentages, such as 73.0 minus 60.5 equals 12.5 points. |
 | Smoke check | A narrow live exercise showing a path works, not a comprehensive benchmark. |
-
